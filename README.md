@@ -1,6 +1,4 @@
 # Hi 👋, I'm Amethesh LGP
-<h3 align="center">A passionate developer who likes to build stuffs. I am interested in 3d Art, desgin, Coding and Tech</h3>
-
 🔭 I’m currently working on Geass Reader<br><br>🌱 I’m currently learning Python for ML<br><br>👯 I’m looking to collaborate on Geass Reader<br><br>📫 How to reach me ametheshlgp@gmail.com
 
 
