@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amethesh LGP</h1>
-<h3 align="center">A passionate developer who likes to build stuffs.I’m interested in 3d Art, desgin, Coding and Tech</h3>
+<h3 align="center">A passionate developer who likes to build stuffs. I am interested in 3d Art, desgin, Coding and Tech</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amethesh&label=Profile%20views&color=0e75b6&style=flat" alt="amethesh" /> </p>
 
@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/@cg__teen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@cg__teen" height="30" width="40" /></a>
-<a href="https://dribbble.com/https://dribbble.com/cg_teen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/cg_teen" height="30" width="40" /></a>
+<a href="https://instagram.com/cg__teen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cg__teen" height="30" width="40" /></a>
+<a href="https://dribbble.com/cg_teen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="cg_teen" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,9 +25,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amethesh&show_icons=true&locale=en&layout=compact" alt="amethesh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amethesh&" alt="amethesh" /></p>
-
-
-<!---
-Amethesh/Amethesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
