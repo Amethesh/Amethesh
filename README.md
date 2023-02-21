@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Geass Reader<br><br>🌱 I’m currently learning Python for ML<br><br>👯 I’m looking to collaborate on Geass Reader<br><br>📫 How to reach me ametheshlgp@gmail.com</p>
+<p align="left">🔭 I’m currently working on Geass Reader<br><br>🌱 I’m currently learning Python for ML<br><br>👯 I’m looking to collaborate on Geass Reader and Artstation scraper<br><br>📫 How to reach me ametheshlgp@gmail.com</p>
 
 ###
 
