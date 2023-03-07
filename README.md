@@ -3,7 +3,7 @@
 </div>
 
 ###
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=800&color=5EC15A&background=47ABFF00&multiline=true&width=600&height=70&lines=A+passionate+developer+who+likes+to+build+stuffs.)](https://git.io/typing-svg)
 <p align="left">🔭 I’m currently working on Geass Reader<br><br>🌱 I’m currently learning Python for ML<br><br>👯 I’m looking to collaborate on Geass Reader and Artstation scraper<br><br>📫 How to reach me ametheshlgp@gmail.com</p>
 
 ###
