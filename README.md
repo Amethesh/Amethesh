@@ -1,5 +1,6 @@
 <div align="center">
-  <img height="300" src="https://github.com/Amethesh/Amethesh/blob/main/Anime%20Twitter%20Header2%20-%20Exusiai.png"  />
+<!--   <img height="300" src="https://github.com/Amethesh/Amethesh/blob/main/Anime%20Twitter%20Header2%20-%20Exusiai.png"  /> -->
+  <img height="300" src="https://i.ibb.co/b6tgvCs/Anime-Twitter-Header2-Exusiai.png" alt="Anime-Twitter-Header2-Exusiai" border="0">
 </div>
 
 ###
