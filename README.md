@@ -5,7 +5,7 @@
 
 ###
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=800&color=5EC15A&background=47ABFF00&multiline=true&width=600&height=70&lines=A+passionate+developer+who+likes+to+build+stuffs.)](https://git.io/typing-svg)
-<p align="left">🔭 I’m currently working on Geass Reader<br><br>🌱I’m currently learning Python <br><br>👯 I’m looking to collaborate on Geass Reader and Artstation scraper<br><br>📫 How to reach me ametheshlgp@gmail.com</p>
+<p align="left">🔭 I’m currently working on Geass Reader<br><br>🌱I’m currently learning build large scale web applications <br><br>👯 I’m looking for a way to stream videos to millions at low cost<br><br>📫 How to reach me ametheshlgp@gmail.com</p>
 
 ###
 
@@ -50,6 +50,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" width="52" alt="xd logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
 </div>
+<p>🦥Ignore the stack lazy to update it</p>
 
 ###
 
